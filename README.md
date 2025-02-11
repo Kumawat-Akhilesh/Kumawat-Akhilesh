@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kumawat-Akhilesh
+- 👋 Hi, I’m @AK2047
 - 👀 I’m interested in building softwares
 - 🌱 I’m currently learning software development and game development
 - 💞️ I’m looking to collaborate on blockchain technologies
